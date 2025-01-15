@@ -1,0 +1,3 @@
+ip a
+df -l
+exit
